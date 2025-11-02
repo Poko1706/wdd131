@@ -40,4 +40,3 @@ month.innerHTML = `getMonth(): <span class="highlight">${today.getMonth()}</span
 day.innerHTML = `getDate(): <span class="highlight">${today.getDate()}</span>`;
 dayofweek.innerHTML = `getDay(): <span class="highlight">${today.getDay()}</span>`;
 
-document.getElementById("lastModified").innerHTML = document.lastModified;
